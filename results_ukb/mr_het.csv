@@ -1,0 +1,11 @@
+key,id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+BNG_to_MigraineUKB,BNG,MigraineUKB,MigraineUKB,BNG,MR Egger,95.8222463385876,73,0.0379137175492209
+BNG_to_MigraineUKB,BNG,MigraineUKB,MigraineUKB,BNG,Inverse variance weighted,96.4698450631726,74,0.0408371940929549
+GD_to_MigraineUKB,GD,MigraineUKB,MigraineUKB,GD,MR Egger,79.9670219845028,46,0.00140994209764227
+GD_to_MigraineUKB,GD,MigraineUKB,MigraineUKB,GD,Inverse variance weighted,83.5175498554978,47,0.000825089395971478
+HYPO_to_MigraineUKB,HYPO,MigraineUKB,MigraineUKB,HYPO,MR Egger,525.103342203036,333,8.63552140194655e-11
+HYPO_to_MigraineUKB,HYPO,MigraineUKB,MigraineUKB,HYPO,Inverse variance weighted,525.673490794181,334,9.80225909615862e-11
+LT_to_MigraineUKB,LT,MigraineUKB,MigraineUKB,LT,MR Egger,72.8305879960192,36,0.000270702679195464
+LT_to_MigraineUKB,LT,MigraineUKB,MigraineUKB,LT,Inverse variance weighted,73.4016958119483,37,0.000339857147928341
+TC_to_MigraineUKB,TC,MigraineUKB,MigraineUKB,TC,MR Egger,48.6991359434347,42,0.221470969786523
+TC_to_MigraineUKB,TC,MigraineUKB,MigraineUKB,TC,Inverse variance weighted,48.8325651408799,43,0.25023409241569
