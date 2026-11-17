@@ -1,0 +1,31 @@
+key,id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+BNG_LOO_to_Migraine,BNG_LOO,Migraine,Migraine,BNG_LOO,MR Egger,101.874020580724,69,0.00617177788114407
+BNG_LOO_to_Migraine,BNG_LOO,Migraine,Migraine,BNG_LOO,Inverse variance weighted,107.182100827944,70,0.00282779891613523
+GD_LOO_to_Migraine,GD_LOO,Migraine,Migraine,GD_LOO,MR Egger,73.2623504612768,45,0.00489435215660941
+GD_LOO_to_Migraine,GD_LOO,Migraine,Migraine,GD_LOO,Inverse variance weighted,74.064375621395,46,0.00542507546662232
+HYPO_LOO_to_Migraine,HYPO_LOO,Migraine,Migraine,HYPO_LOO,MR Egger,425.622566255416,328,0.000221229704154973
+HYPO_LOO_to_Migraine,HYPO_LOO,Migraine,Migraine,HYPO_LOO,Inverse variance weighted,430.054867314956,329,0.00014656740577736
+LT_LOO_to_Migraine,LT_LOO,Migraine,Migraine,LT_LOO,MR Egger,40.5779766691196,22,0.00924718774401282
+LT_LOO_to_Migraine,LT_LOO,Migraine,Migraine,LT_LOO,Inverse variance weighted,40.578156569398,23,0.0132272434707006
+TC_LOO_to_Migraine,TC_LOO,Migraine,Migraine,TC_LOO,MR Egger,39.0047511141402,37,0.379718068202535
+TC_LOO_to_Migraine,TC_LOO,Migraine,Migraine,TC_LOO,Inverse variance weighted,39.1457440970784,38,0.418198286095301
+BNG_LOO_to_MigraineAura,BNG_LOO,MigraineAura,MigraineAura,BNG_LOO,MR Egger,70.5246553590093,67,0.360663060132843
+BNG_LOO_to_MigraineAura,BNG_LOO,MigraineAura,MigraineAura,BNG_LOO,Inverse variance weighted,71.7520090837666,68,0.354594060380646
+GD_LOO_to_MigraineAura,GD_LOO,MigraineAura,MigraineAura,GD_LOO,MR Egger,61.7848456554746,45,0.0488758640845807
+GD_LOO_to_MigraineAura,GD_LOO,MigraineAura,MigraineAura,GD_LOO,Inverse variance weighted,62.8431101090662,46,0.0498821185001103
+HYPO_LOO_to_MigraineAura,HYPO_LOO,MigraineAura,MigraineAura,HYPO_LOO,MR Egger,412.896181234313,328,0.000997921821815627
+HYPO_LOO_to_MigraineAura,HYPO_LOO,MigraineAura,MigraineAura,HYPO_LOO,Inverse variance weighted,414.337101879268,329,0.000962466328168346
+LT_LOO_to_MigraineAura,LT_LOO,MigraineAura,MigraineAura,LT_LOO,MR Egger,34.9431942274252,22,0.0392777381190126
+LT_LOO_to_MigraineAura,LT_LOO,MigraineAura,MigraineAura,LT_LOO,Inverse variance weighted,35.5364332776382,23,0.0459698872342849
+TC_LOO_to_MigraineAura,TC_LOO,MigraineAura,MigraineAura,TC_LOO,MR Egger,48.469628723395,39,0.142278271116943
+TC_LOO_to_MigraineAura,TC_LOO,MigraineAura,MigraineAura,TC_LOO,Inverse variance weighted,48.5029986224046,40,0.167528062067135
+BNG_LOO_to_MigraineNoAura,BNG_LOO,MigraineNoAura,MigraineNoAura,BNG_LOO,MR Egger,80.7207781514486,69,0.15810306424245
+BNG_LOO_to_MigraineNoAura,BNG_LOO,MigraineNoAura,MigraineNoAura,BNG_LOO,Inverse variance weighted,87.8158339530904,70,0.0736135244307799
+GD_LOO_to_MigraineNoAura,GD_LOO,MigraineNoAura,MigraineNoAura,GD_LOO,MR Egger,63.3942248019036,45,0.0365468842213278
+GD_LOO_to_MigraineNoAura,GD_LOO,MigraineNoAura,MigraineNoAura,GD_LOO,Inverse variance weighted,65.8412717392634,46,0.0289524272850197
+HYPO_LOO_to_MigraineNoAura,HYPO_LOO,MigraineNoAura,MigraineNoAura,HYPO_LOO,MR Egger,365.858851421451,328,0.0734446869005366
+HYPO_LOO_to_MigraineNoAura,HYPO_LOO,MigraineNoAura,MigraineNoAura,HYPO_LOO,Inverse variance weighted,372.847147065729,329,0.0480037280060074
+LT_LOO_to_MigraineNoAura,LT_LOO,MigraineNoAura,MigraineNoAura,LT_LOO,MR Egger,39.9116526895124,23,0.0157231802364333
+LT_LOO_to_MigraineNoAura,LT_LOO,MigraineNoAura,MigraineNoAura,LT_LOO,Inverse variance weighted,40.1414497871432,24,0.020650691792909
+TC_LOO_to_MigraineNoAura,TC_LOO,MigraineNoAura,MigraineNoAura,TC_LOO,MR Egger,51.4838436880975,39,0.086985826880149
+TC_LOO_to_MigraineNoAura,TC_LOO,MigraineNoAura,MigraineNoAura,TC_LOO,Inverse variance weighted,55.0720919870934,40,0.0567099297095507

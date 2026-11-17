@@ -1,0 +1,16 @@
+combo,k,n_out
+BNG|Migraine,76,0
+BNG|MigraineAura,74,0
+BNG|MigraineNoAura,76,0
+GD|Migraine,49,0
+GD|MigraineAura,49,0
+GD|MigraineNoAura,49,0
+HYPO|Migraine,336,0
+HYPO|MigraineAura,338,0
+HYPO|MigraineNoAura,337,0
+LT|Migraine,39,0
+LT|MigraineAura,40,0
+LT|MigraineNoAura,40,0
+TC|Migraine,46,0
+TC|MigraineAura,47,0
+TC|MigraineNoAura,47,0

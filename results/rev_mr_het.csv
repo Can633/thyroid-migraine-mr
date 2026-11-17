@@ -1,0 +1,61 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval,direction,drop_mhc
+Migraine,GD,outcome,exposure,MR Egger,11.2841584647943,12,0.504736040786047,reverse,FALSE
+Migraine,GD,outcome,exposure,Inverse variance weighted,11.3426145096965,13,0.582139461000217,reverse,FALSE
+Migraine,GD,outcome,exposure,MR Egger,10.1545310615012,11,0.516542950373608,reverse,TRUE
+Migraine,GD,outcome,exposure,Inverse variance weighted,10.3166555686334,12,0.588202131221245,reverse,TRUE
+Migraine,HYPO,outcome,exposure,MR Egger,83.4786915960726,12,8.91822040842541e-13,reverse,FALSE
+Migraine,HYPO,outcome,exposure,Inverse variance weighted,83.9120725089908,13,2.01469479571619e-12,reverse,FALSE
+Migraine,HYPO,outcome,exposure,MR Egger,59.9629348055843,11,9.4203163046692e-09,reverse,TRUE
+Migraine,HYPO,outcome,exposure,Inverse variance weighted,61.887601174479,12,1.01987786345993e-08,reverse,TRUE
+Migraine,LT,outcome,exposure,MR Egger,17.8898977110188,12,0.119074732076641,reverse,FALSE
+Migraine,LT,outcome,exposure,Inverse variance weighted,20.4326009940916,13,0.0849360371351486,reverse,FALSE
+Migraine,LT,outcome,exposure,MR Egger,17.6292943887035,11,0.0905905218371394,reverse,TRUE
+Migraine,LT,outcome,exposure,Inverse variance weighted,20.3535717987729,12,0.0606862718571406,reverse,TRUE
+Migraine,BNG,outcome,exposure,MR Egger,36.5972689092449,12,0.000259586307811406,reverse,FALSE
+Migraine,BNG,outcome,exposure,Inverse variance weighted,42.7926977570125,13,4.85575964997558e-05,reverse,FALSE
+Migraine,BNG,outcome,exposure,MR Egger,36.200853851588,11,0.000156699876414181,reverse,TRUE
+Migraine,BNG,outcome,exposure,Inverse variance weighted,42.721283711816,12,2.51693634997931e-05,reverse,TRUE
+Migraine,TC,outcome,exposure,MR Egger,17.5999238240711,12,0.128389169918049,reverse,FALSE
+Migraine,TC,outcome,exposure,Inverse variance weighted,17.6053729431173,13,0.173086021086444,reverse,FALSE
+Migraine,TC,outcome,exposure,MR Egger,16.7344898320553,11,0.115978320468822,reverse,TRUE
+Migraine,TC,outcome,exposure,Inverse variance weighted,16.7384590237205,12,0.159703272199443,reverse,TRUE
+MigraineAura,GD,outcome,exposure,MR Egger,39.6144635927057,5,1.78601135115441e-07,reverse,FALSE
+MigraineAura,GD,outcome,exposure,Inverse variance weighted,40.4383709218969,6,3.7351687944939e-07,reverse,FALSE
+MigraineAura,GD,outcome,exposure,MR Egger,3.38211753983383,4,0.496027426225411,reverse,TRUE
+MigraineAura,GD,outcome,exposure,Inverse variance weighted,3.53417060602931,5,0.61822360642151,reverse,TRUE
+MigraineAura,HYPO,outcome,exposure,MR Egger,27.2125597019692,5,5.18546866786907e-05,reverse,FALSE
+MigraineAura,HYPO,outcome,exposure,Inverse variance weighted,28.2045154496784,6,8.59846706277181e-05,reverse,FALSE
+MigraineAura,HYPO,outcome,exposure,MR Egger,17.370850875402,4,0.00163714204254976,reverse,TRUE
+MigraineAura,HYPO,outcome,exposure,Inverse variance weighted,17.4687676351423,5,0.00369144784173097,reverse,TRUE
+MigraineAura,LT,outcome,exposure,MR Egger,2.64564991982001,5,0.754417655776655,reverse,FALSE
+MigraineAura,LT,outcome,exposure,Inverse variance weighted,3.42655560370921,6,0.753714125210938,reverse,FALSE
+MigraineAura,LT,outcome,exposure,MR Egger,1.74241825332484,4,0.782998645444906,reverse,TRUE
+MigraineAura,LT,outcome,exposure,Inverse variance weighted,2.93354920428312,5,0.710229970827739,reverse,TRUE
+MigraineAura,BNG,outcome,exposure,MR Egger,3.6930299198403,5,0.594401555115111,reverse,FALSE
+MigraineAura,BNG,outcome,exposure,Inverse variance weighted,4.41928136740615,6,0.620129810933021,reverse,FALSE
+MigraineAura,BNG,outcome,exposure,MR Egger,2.20400830496984,4,0.698295506167926,reverse,TRUE
+MigraineAura,BNG,outcome,exposure,Inverse variance weighted,2.54093262935714,5,0.770318312790358,reverse,TRUE
+MigraineAura,TC,outcome,exposure,MR Egger,4.78095049989295,5,0.443194006122046,reverse,FALSE
+MigraineAura,TC,outcome,exposure,Inverse variance weighted,11.8907526843525,6,0.064450827466464,reverse,FALSE
+MigraineAura,TC,outcome,exposure,MR Egger,3.85877293134751,4,0.425456120029153,reverse,TRUE
+MigraineAura,TC,outcome,exposure,Inverse variance weighted,9.61053133317861,5,0.0870534537168848,reverse,TRUE
+MigraineNoAura,GD,outcome,exposure,MR Egger,1.26940491274677,3,0.736410681966621,reverse,FALSE
+MigraineNoAura,GD,outcome,exposure,Inverse variance weighted,1.93704694532114,4,0.747336507132874,reverse,FALSE
+MigraineNoAura,GD,outcome,exposure,MR Egger,1.26940491274677,3,0.736410681966621,reverse,TRUE
+MigraineNoAura,GD,outcome,exposure,Inverse variance weighted,1.93704694532114,4,0.747336507132874,reverse,TRUE
+MigraineNoAura,HYPO,outcome,exposure,MR Egger,8.47446974556601,3,0.037159076706537,reverse,FALSE
+MigraineNoAura,HYPO,outcome,exposure,Inverse variance weighted,9.60028893364773,4,0.0477268263686456,reverse,FALSE
+MigraineNoAura,HYPO,outcome,exposure,MR Egger,8.47446974556601,3,0.037159076706537,reverse,TRUE
+MigraineNoAura,HYPO,outcome,exposure,Inverse variance weighted,9.60028893364773,4,0.0477268263686456,reverse,TRUE
+MigraineNoAura,LT,outcome,exposure,MR Egger,4.79206363644049,3,0.187672020485461,reverse,FALSE
+MigraineNoAura,LT,outcome,exposure,Inverse variance weighted,5.39551004025319,4,0.249068047693851,reverse,FALSE
+MigraineNoAura,LT,outcome,exposure,MR Egger,4.79206363644049,3,0.187672020485461,reverse,TRUE
+MigraineNoAura,LT,outcome,exposure,Inverse variance weighted,5.39551004025319,4,0.249068047693851,reverse,TRUE
+MigraineNoAura,BNG,outcome,exposure,MR Egger,8.82600067219682,3,0.0316960282251059,reverse,FALSE
+MigraineNoAura,BNG,outcome,exposure,Inverse variance weighted,8.92480775231106,4,0.0630066556500919,reverse,FALSE
+MigraineNoAura,BNG,outcome,exposure,MR Egger,8.82600067219682,3,0.0316960282251059,reverse,TRUE
+MigraineNoAura,BNG,outcome,exposure,Inverse variance weighted,8.92480775231106,4,0.0630066556500919,reverse,TRUE
+MigraineNoAura,TC,outcome,exposure,MR Egger,3.61336508662151,3,0.306353945360819,reverse,FALSE
+MigraineNoAura,TC,outcome,exposure,Inverse variance weighted,3.82721990894816,4,0.429893786934921,reverse,FALSE
+MigraineNoAura,TC,outcome,exposure,MR Egger,3.61336508662151,3,0.306353945360819,reverse,TRUE
+MigraineNoAura,TC,outcome,exposure,Inverse variance weighted,3.82721990894816,4,0.429893786934921,reverse,TRUE

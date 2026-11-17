@@ -1,0 +1,24 @@
+locus,snp,is_lead,n_eqtl_genes,n_sig_genes,best_ensg,best_p,best_beta,sig,note,gene_symbol,gene_name,gene_location
+7,rs2291297,False,23,4.0,ENSG00000204084,3.57618e-24,-0.431184,True,,INPP5B,inositol polyphosphate-5-phosphatase B,1p34.3
+7,rs3891572,True,23,4.0,ENSG00000204084,1.13771e-23,-0.421636,True,,INPP5B,inositol polyphosphate-5-phosphatase B,1p34.3
+7,rs3748682,False,23,4.0,ENSG00000204084,1.13771e-23,-0.421636,True,,INPP5B,inositol polyphosphate-5-phosphatase B,1p34.3
+66,rs62238493,True,4,0.0,ENSG00000228956,0.0237235,-0.0978452,False,,SATB1-AS1,SATB1 antisense RNA 1,3p24.3
+66,rs9826966,False,4,0.0,ENSG00000182568,0.429146,-0.0245067,False,,SATB1,SATB homeobox 1,3p24.3
+73,rs9842406,True,9,0.0,ENSG00000163602,0.0049866,-0.0700718,False,,RYBP,RING1 and YY1 binding protein,3p13
+73,rs9837383,False,9,0.0,ENSG00000163412,0.00371093,0.0620577,False,,EIF4E3,eukaryotic translation initiation factor 4E family member 3,3p13
+97,rs6817572,False,8,0.0,ENSG00000270265,0.110822,-0.0784599,False,,,,
+97,rs6819189,True,8,0.0,ENSG00000145425,0.130644,-0.024892,False,,RPS3A,ribosomal protein S3A,4q31.3
+108,rs2288786,False,7,2.0,ENSG00000175749,1.27115e-11,0.420368,True,,EIF3KP1,eukaryotic translation initiation factor 3 subunit K pseudogene 1,5q21.1
+108,rs28157,True,7,2.0,ENSG00000175749,1.4624e-11,0.421318,True,,EIF3KP1,eukaryotic translation initiation factor 3 subunit K pseudogene 1,5q21.1
+154,rs2980769,True,16,7.0,ENSG00000275342,3.06209e-97,-0.643584,True,,PRAG1,"PEAK1 related, kinase-activating pseudokinase 1",8p23.1
+154,rs2921077,False,16,8.0,ENSG00000275342,4.23201e-75,-0.595475,True,,PRAG1,"PEAK1 related, kinase-activating pseudokinase 1",8p23.1
+154,rs2979179,False,16,7.0,ENSG00000275342,4.40981e-98,-0.64375,True,,PRAG1,"PEAK1 related, kinase-activating pseudokinase 1",8p23.1
+178,rs635634,True,39,1.0,ENSG00000148290,1.97753e-06,0.187927,True,,SURF1,SURF1 cytochrome c oxidase assembly factor,9q34.2
+178,rs651007,False,39,1.0,ENSG00000148290,8.41914e-06,0.168191,True,,SURF1,SURF1 cytochrome c oxidase assembly factor,9q34.2
+249,rs7172947,False,61,1.0,ENSG00000128891,3.89331e-08,-0.269045,True,,CCDC32,coiled-coil domain containing 32,15q15.1
+249,rs4924490,False,60,1.0,ENSG00000128891,4.64321e-07,0.275745,True,,CCDC32,coiled-coil domain containing 32,15q15.1
+249,rs10400825,True,0,,,,,False,not in thyroid eQTL panel,,,
+311,rs185799410,True,22,0.0,ENSG00000254419,0.000151748,0.459014,False,,,,
+311,rs9679845,False,0,,,,,False,not in thyroid eQTL panel,,,
+319,rs3817999,False,59,2.0,ENSG00000100412,2.8882e-10,0.150552,True,,ACO2,aconitase 2,22q13.2
+319,rs767593,True,59,3.0,ENSG00000100417,3.0296e-15,-0.310129,True,,PMM1,phosphomannomutase 1,22q13.2
